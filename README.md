@@ -2,7 +2,7 @@
 
 Мощный набор системных утилит для Windows с открытым исходным кодом.
 
-![Screenshot](https://i-mg24.ru/images/112925181407-08lj6.png)
+![Screenshot](https://i-mg24.ru/images/112925222922-ocr6f.png)
 
 ## ⚡ Возможности
 
