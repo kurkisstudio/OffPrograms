@@ -30,6 +30,6 @@
 
 Сборка из исходного кода:
 ```bash
-git clone https://github.com/ваш-логин/OffPrograms.git
+git clone https://github.com/kurkisstudio/OffPrograms.git
 cd OffPrograms
 dotnet publish -c Release -r win-x64 --self-contained true
