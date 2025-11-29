@@ -15,7 +15,7 @@
 
 ## 🚀 Установка
 
-1. Скачайте `OffPrograms.exe` из [Releases](https://github.com/ваш-логин/OffPrograms/releases)
+1. Скачайте `OffPrograms.exe` из [Releases](https://github.com/kurkisstudio/OffPrograms/releases/tag/v2.0)
 2. Запустите от имени **Администратора**
 3. Выберите нужную функцию
 
